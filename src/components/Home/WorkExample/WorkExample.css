@@ -1,0 +1,23 @@
+/* .carousel-container{
+    height: 700px;
+}
+.carousel-image{
+    height: 400px;
+    width: 100%;
+} */
+.carouselImg{
+    height: 500px;
+    width: 70%;
+   
+}
+.carousel{
+    margin-left:40px;
+    margin-right:50px;
+  
+}
+h2{
+    font-family: 'Neuton', serif;
+    font-family: 'Patua One', cursive;
+    font-size:30px;
+    font-weight:400;
+}

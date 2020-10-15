@@ -1,0 +1,9 @@
+.feedback-sub-container{
+    height: 250px;
+    width:420px;
+  
+    border:2px solid lightgray;
+    margin-left: 50px;
+    border-radius:5px;
+    padding:0 10px;
+}

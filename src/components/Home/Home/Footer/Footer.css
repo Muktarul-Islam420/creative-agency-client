@@ -1,0 +1,26 @@
+.footer-container{
+    height: 600px;
+    background-color: #fbd062;
+
+}
+.footer-text-container{
+    margin-top:60px;
+    margin-left:150px;
+    margin-right:150px;
+}
+.footer-input-container{
+    margin-top:60px;
+
+}
+.input{
+    width:500px;
+    height: 55px;
+    outline:none;
+}
+.input:focus{
+    box-shadow: solid 1px red;
+}
+.input-comment{
+    height: 300px;
+    width:500px; 
+}

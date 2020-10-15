@@ -1,0 +1,20 @@
+.header-container{
+    background-color:#FBD062;
+    position:relative;
+    height: 800px;
+    clip-path: polygon(0 0, 100% 0%, 100% 84%, 0% 100%);
+}
+
+.text-area{
+    margin-top:170px;
+    margin-left:20px;
+    margin-right:40px;
+}
+.img-fluid{
+    height: 600px;
+}
+h1{
+    font-family: 'Patua One', cursive;
+    font-size:40px;
+    font-weight:500;
+}
